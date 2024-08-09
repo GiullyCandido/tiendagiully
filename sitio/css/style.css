@@ -1,0 +1,36 @@
+.collapse.navbar-collapse a {
+    font-weight: bold;
+}
+
+.collapse.navbar-collapse a:hover {
+    text-shadow: 2px 2px 5px rgba(254, 217, 152, 0.613);
+}
+
+.card-body h3{
+    color: rgb(89, 0, 0);
+}
+.tituloGiu{
+    color: rgb(89, 0, 0);
+}
+.tituloQuienesSomos{
+    color: rgb(89, 0, 0);
+}
+p{
+    text-align: justify;
+}
+.tituloContacto{
+    color: rgb(89, 0, 0);
+}
+
+.btn-secondary:hover{
+    color: bisque;
+    background-color: rgb(89, 0, 0);
+}
+
+.titulosSecciones{
+    color: rgb(89, 0, 0);
+
+}
+.colorFondo{
+    background-color: rgb(89, 0, 0);
+}
